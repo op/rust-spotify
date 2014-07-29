@@ -1,0 +1,651 @@
+{
+  "album_type" : "album",
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+    "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+    "name" : "Nasum",
+    "type" : "artist",
+    "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "external_ids" : {
+    "upc" : "781676644421"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/album/1YOYVUg964ocNniFFZD0jd"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/albums/1YOYVUg964ocNniFFZD0jd",
+  "id" : "1YOYVUg964ocNniFFZD0jd",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/904f14c1c16999dfbdc1d7573c0e7f6231cc2f48",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://i.scdn.co/image/9e35ee029656d7c537e2d5006e6c0b8d925d19c8",
+    "width" : 300
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/0b753808d7f198e43915ac69a1951d33ee32880d",
+    "width" : 64
+  } ],
+  "name" : "Human 2.0",
+  "popularity" : 28,
+  "release_date" : "2000-05-23",
+  "release_date_precision" : "day",
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/albums/1YOYVUg964ocNniFFZD0jd/tracks?offset=0&limit=50",
+    "items" : [ {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 65066,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0zkMLWfnvy6bUhhmoP5H3N"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0zkMLWfnvy6bUhhmoP5H3N",
+      "id" : "0zkMLWfnvy6bUhhmoP5H3N",
+      "name" : "Mass Hypnosis",
+      "preview_url" : "https://p.scdn.co/mp3-preview/c0b4159fc1215ed85cd9842fed64888fad0e4a26",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0zkMLWfnvy6bUhhmoP5H3N"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 100160,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0aceM38cgG2UqBUb2xYUza"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0aceM38cgG2UqBUb2xYUza",
+      "id" : "0aceM38cgG2UqBUb2xYUza",
+      "name" : "A Welcome Breeze of Stinking Air",
+      "preview_url" : "https://p.scdn.co/mp3-preview/d6c08e6946aaa14b993523a461dcf9590380d3f6",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:0aceM38cgG2UqBUb2xYUza"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 28866,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1Y1pmWzAX3Pzwsuj89pAiO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1Y1pmWzAX3Pzwsuj89pAiO",
+      "id" : "1Y1pmWzAX3Pzwsuj89pAiO",
+      "name" : "Fatal Search",
+      "preview_url" : "https://p.scdn.co/mp3-preview/2253a8914baef63e63855c79031d4fdfb54bc74e",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:1Y1pmWzAX3Pzwsuj89pAiO"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 144973,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5YYaA7QrQaMFkpx145zjvO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5YYaA7QrQaMFkpx145zjvO",
+      "id" : "5YYaA7QrQaMFkpx145zjvO",
+      "name" : "Shadows",
+      "preview_url" : "https://p.scdn.co/mp3-preview/8f43f1de56f6924b77db8ae226c0379f4bcb2121",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:5YYaA7QrQaMFkpx145zjvO"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 128000,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3UiUL9scSvRdq3veTEHgpF"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3UiUL9scSvRdq3veTEHgpF",
+      "id" : "3UiUL9scSvRdq3veTEHgpF",
+      "name" : "Corrosion",
+      "preview_url" : "https://p.scdn.co/mp3-preview/294d383641fd1f30fd4ef081f3a70f83bc6ca343",
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:3UiUL9scSvRdq3veTEHgpF"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 138626,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0K5qXGfXQVOn3PrRsRxNAo"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0K5qXGfXQVOn3PrRsRxNAo",
+      "id" : "0K5qXGfXQVOn3PrRsRxNAo",
+      "name" : "Multinational Murderers Network",
+      "preview_url" : "https://p.scdn.co/mp3-preview/8522e8cc363d2ccb64fad786995788ffd530b2ba",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:0K5qXGfXQVOn3PrRsRxNAo"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 41400,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/25rhqnA1q66WD3nMQTgDFC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/25rhqnA1q66WD3nMQTgDFC",
+      "id" : "25rhqnA1q66WD3nMQTgDFC",
+      "name" : "Parting Is Such Sweet Sorrow",
+      "preview_url" : "https://p.scdn.co/mp3-preview/921691e1e6938869c66a1a8207aa8524d5f2785f",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:25rhqnA1q66WD3nMQTgDFC"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 83533,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5t3mh9iGaHk19mP2qx9kAI"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5t3mh9iGaHk19mP2qx9kAI",
+      "id" : "5t3mh9iGaHk19mP2qx9kAI",
+      "name" : "The Black Swarm",
+      "preview_url" : "https://p.scdn.co/mp3-preview/4d6e111555d9455f2d7657f278354038caebe87b",
+      "track_number" : 8,
+      "type" : "track",
+      "uri" : "spotify:track:5t3mh9iGaHk19mP2qx9kAI"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 111800,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1CSG7NIaoCzcfev0NEL2g5"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1CSG7NIaoCzcfev0NEL2g5",
+      "id" : "1CSG7NIaoCzcfev0NEL2g5",
+      "name" : "Sixteen",
+      "preview_url" : "https://p.scdn.co/mp3-preview/655a985a0a2e303f58fc9a7026bd4a639a3a0b79",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:1CSG7NIaoCzcfev0NEL2g5"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 132573,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1jMEPUa83NVAHDbFMvN1Zb"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1jMEPUa83NVAHDbFMvN1Zb",
+      "id" : "1jMEPUa83NVAHDbFMvN1Zb",
+      "name" : "Alarm",
+      "preview_url" : "https://p.scdn.co/mp3-preview/5170f1eb3ec108b6584bb26589e640a385083973",
+      "track_number" : 10,
+      "type" : "track",
+      "uri" : "spotify:track:1jMEPUa83NVAHDbFMvN1Zb"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 97933,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/21M5tamXA8UVN0Knl6BM4c"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/21M5tamXA8UVN0Knl6BM4c",
+      "id" : "21M5tamXA8UVN0Knl6BM4c",
+      "name" : "Detonator",
+      "preview_url" : "https://p.scdn.co/mp3-preview/2c05b301eadb44f5343f930da0a97f2f518344d5",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:21M5tamXA8UVN0Knl6BM4c"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 61866,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6jDCYbXeArOTYU0pk2o5Sv"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6jDCYbXeArOTYU0pk2o5Sv",
+      "id" : "6jDCYbXeArOTYU0pk2o5Sv",
+      "name" : "Gargoyles and Grotesques",
+      "preview_url" : "https://p.scdn.co/mp3-preview/1ec03cbf854173cd8d84613090fd4657bd3c901e",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:6jDCYbXeArOTYU0pk2o5Sv"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 60800,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2Zco3eUHpClsKZ9IWxtm0W"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2Zco3eUHpClsKZ9IWxtm0W",
+      "id" : "2Zco3eUHpClsKZ9IWxtm0W",
+      "name" : "När Dagarna...",
+      "preview_url" : "https://p.scdn.co/mp3-preview/25ec432d6328570cbaa48c29a430a0e8e6621c11",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:2Zco3eUHpClsKZ9IWxtm0W"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 153000,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6txANbiieJmpvoEJoNwzmj"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6txANbiieJmpvoEJoNwzmj",
+      "id" : "6txANbiieJmpvoEJoNwzmj",
+      "name" : "Resistance",
+      "preview_url" : "https://p.scdn.co/mp3-preview/fe8db9ef93511f36d059487d55d0ff2ef8c6b1d0",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:6txANbiieJmpvoEJoNwzmj"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 93066,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5BeBvRU23OfuMy4jVlkDdm"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5BeBvRU23OfuMy4jVlkDdm",
+      "id" : "5BeBvRU23OfuMy4jVlkDdm",
+      "name" : "The Idiot Parade",
+      "preview_url" : "https://p.scdn.co/mp3-preview/4b84a2516e8d474faa7aca198b24894b172a2605",
+      "track_number" : 15,
+      "type" : "track",
+      "uri" : "spotify:track:5BeBvRU23OfuMy4jVlkDdm"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 59800,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0gdarqfBPUKnSdbfaNA34t"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0gdarqfBPUKnSdbfaNA34t",
+      "id" : "0gdarqfBPUKnSdbfaNA34t",
+      "name" : "Den Svarta Fanan",
+      "preview_url" : "https://p.scdn.co/mp3-preview/5fcea69e36870ecaab71be40b22ec3704204e127",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:0gdarqfBPUKnSdbfaNA34t"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 51160,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4FxeP92qddPJVASKM3XYvG"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4FxeP92qddPJVASKM3XYvG",
+      "id" : "4FxeP92qddPJVASKM3XYvG",
+      "name" : "We're Nothing But Pawns",
+      "preview_url" : "https://p.scdn.co/mp3-preview/1e4479ec98c7c6d5dc9b8c06fe9bb20e18ba9bf5",
+      "track_number" : 17,
+      "type" : "track",
+      "uri" : "spotify:track:4FxeP92qddPJVASKM3XYvG"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 102466,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5TM1udpiIAQGLFdypi4NB8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5TM1udpiIAQGLFdypi4NB8",
+      "id" : "5TM1udpiIAQGLFdypi4NB8",
+      "name" : "Defragmentation",
+      "preview_url" : "https://p.scdn.co/mp3-preview/81145fc8b88b851ac81e56ef5877e8d206b770c1",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:5TM1udpiIAQGLFdypi4NB8"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 19440,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4OkBvaCxtJUubItoPVqtI9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4OkBvaCxtJUubItoPVqtI9",
+      "id" : "4OkBvaCxtJUubItoPVqtI9",
+      "name" : "Sick System",
+      "preview_url" : "https://p.scdn.co/mp3-preview/b58ccaa7a104f0e971f26581594381a8edd0c3f1",
+      "track_number" : 19,
+      "type" : "track",
+      "uri" : "spotify:track:4OkBvaCxtJUubItoPVqtI9"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 158666,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3XOmzRvrahN5g6oqgJeYoA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3XOmzRvrahN5g6oqgJeYoA",
+      "id" : "3XOmzRvrahN5g6oqgJeYoA",
+      "name" : "The Professional League",
+      "preview_url" : "https://p.scdn.co/mp3-preview/c98c3caa4d58f4cd2f9a1914ae49a39c6fa751e0",
+      "track_number" : 20,
+      "type" : "track",
+      "uri" : "spotify:track:3XOmzRvrahN5g6oqgJeYoA"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 72800,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2rKH20z4eRUfEc3Jxe1fci"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2rKH20z4eRUfEc3Jxe1fci",
+      "id" : "2rKH20z4eRUfEc3Jxe1fci",
+      "name" : "Old and Tired?",
+      "preview_url" : "https://p.scdn.co/mp3-preview/022360341455a2185b0ddfa40632c9d1deb92079",
+      "track_number" : 21,
+      "type" : "track",
+      "uri" : "spotify:track:2rKH20z4eRUfEc3Jxe1fci"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 123200,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3T1yfJRaGHBJQWsmexc5yO"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3T1yfJRaGHBJQWsmexc5yO",
+      "id" : "3T1yfJRaGHBJQWsmexc5yO",
+      "name" : "Words To Die For",
+      "preview_url" : "https://p.scdn.co/mp3-preview/e7eefb14a4c258d0aebb528296dfc93d09c19968",
+      "track_number" : 22,
+      "type" : "track",
+      "uri" : "spotify:track:3T1yfJRaGHBJQWsmexc5yO"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 40226,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4jkmIhUST3S32UuMC937N2"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4jkmIhUST3S32UuMC937N2",
+      "id" : "4jkmIhUST3S32UuMC937N2",
+      "name" : "Riot",
+      "preview_url" : "https://p.scdn.co/mp3-preview/3c71e17fd2ef1edae90d3d065fdc09bf3e90b9f6",
+      "track_number" : 23,
+      "type" : "track",
+      "uri" : "spotify:track:4jkmIhUST3S32UuMC937N2"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 62533,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2jONFXVyi7ttgLksiSFdm9"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2jONFXVyi7ttgLksiSFdm9",
+      "id" : "2jONFXVyi7ttgLksiSFdm9",
+      "name" : "The Meaningless Trial",
+      "preview_url" : "https://p.scdn.co/mp3-preview/f23ccc43e5abc8f6c4df28ba79f4da177c9e2301",
+      "track_number" : 24,
+      "type" : "track",
+      "uri" : "spotify:track:2jONFXVyi7ttgLksiSFdm9"
+    }, {
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+        "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+        "name" : "Nasum",
+        "type" : "artist",
+        "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+      } ],
+      "disc_number" : 1,
+      "duration_ms" : 178200,
+      "explicit" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0x4hQfMOb4vWBsyIaQOXUN"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0x4hQfMOb4vWBsyIaQOXUN",
+      "id" : "0x4hQfMOb4vWBsyIaQOXUN",
+      "name" : "Sometimes Dead Is Better",
+      "preview_url" : "https://p.scdn.co/mp3-preview/2e16ab6dd0b771307a6468528acd3b22097bdb53",
+      "track_number" : 25,
+      "type" : "track",
+      "uri" : "spotify:track:0x4hQfMOb4vWBsyIaQOXUN"
+    } ],
+    "limit" : 50,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 25
+  },
+  "type" : "album",
+  "uri" : "spotify:album:1YOYVUg964ocNniFFZD0jd"
+}

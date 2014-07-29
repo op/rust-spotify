@@ -1,0 +1,8 @@
+[package]
+name = "spotify"
+version = "0.0.1"
+authors = ["o@42mm.org"]
+
+[[lib]]
+name = "spotify"
+path = "src/spotify/lib.rs"

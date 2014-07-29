@@ -1,0 +1,55 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/1YOYVUg964ocNniFFZD0jd"
+    },
+    "href" : "https://api.spotify.com/v1/albums/1YOYVUg964ocNniFFZD0jd",
+    "id" : "1YOYVUg964ocNniFFZD0jd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/904f14c1c16999dfbdc1d7573c0e7f6231cc2f48",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9e35ee029656d7c537e2d5006e6c0b8d925d19c8",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/0b753808d7f198e43915ac69a1951d33ee32880d",
+      "width" : 64
+    } ],
+    "name" : "Human 2.0",
+    "type" : "album",
+    "uri" : "spotify:album:1YOYVUg964ocNniFFZD0jd"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+    },
+    "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+    "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+    "name" : "Nasum",
+    "type" : "artist",
+    "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+  } ],
+  "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "RO", "SE", "SG", "SI", "SK", "SV", "TR", "TW", "US", "UY" ],
+  "disc_number" : 1,
+  "duration_ms" : 93066,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "US2640044415"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5BeBvRU23OfuMy4jVlkDdm"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5BeBvRU23OfuMy4jVlkDdm",
+  "id" : "5BeBvRU23OfuMy4jVlkDdm",
+  "name" : "The Idiot Parade",
+  "popularity" : 10,
+  "preview_url" : "https://p.scdn.co/mp3-preview/4b84a2516e8d474faa7aca198b24894b172a2605",
+  "track_number" : 15,
+  "type" : "track",
+  "uri" : "spotify:track:5BeBvRU23OfuMy4jVlkDdm"
+}

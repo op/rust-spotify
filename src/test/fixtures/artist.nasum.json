@@ -1,0 +1,25 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/7ubUEBqbef0F5Z7GLo1t8j"
+  },
+  "genres" : [ "Alternative Metal", "Death Metal", "Grindcore", "Heavy Metal", "Pop/Rock" ],
+  "href" : "https://api.spotify.com/v1/artists/7ubUEBqbef0F5Z7GLo1t8j",
+  "id" : "7ubUEBqbef0F5Z7GLo1t8j",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/e7d7b0c641a07b71a58445635f62cb9205456dbf",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://i.scdn.co/image/f879d24d60cfd9fb1e58b3d7979b10d88da67593",
+    "width" : 300
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/90f0ae1534c8ec52c5f8821589aff632917fab36",
+    "width" : 64
+  } ],
+  "name" : "Nasum",
+  "popularity" : 11,
+  "type" : "artist",
+  "uri" : "spotify:artist:7ubUEBqbef0F5Z7GLo1t8j"
+}
