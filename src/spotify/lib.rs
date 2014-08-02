@@ -3,20 +3,23 @@
 #![license = "ASL2"]
 
 extern crate serialize;
+extern crate url;
 
 use std::collections::HashMap;
+
+pub mod uri;
 
 // TODO The type field is currently ignored. We would want to verify that the
 // expected type is what we want. Since type is a reserved keyword, it's not
 // that easy.
 // https://github.com/rust-lang/rust/issues/15358
 #[deriving(Decodable, Encodable)]
-struct Track {
+pub struct Track {
     id: String,
-    uri: String,
+    pub uri: String,
     href: String,
     // type: String,
-    name: String,
+    pub name: String,
     track_number: int,
 
     disc_number: int,
@@ -25,13 +28,13 @@ struct Track {
     preview_url: String,
     external_urls: std::collections::HashMap<String, String>,
 
-    artists: Vec<SimpleArtist>,
+    pub artists: Vec<SimpleArtist>,
 
     // Fields only available when querying a track
     popularity: int,
     available_markets: Vec<String>,
     external_ids: std::collections::HashMap<String, String>,
-    album: SimpleAlbum,
+    pub album: SimpleAlbum,
 }
 
 #[deriving(Decodable, Encodable)]
@@ -85,7 +88,7 @@ struct SimpleAlbum {
     uri: String,
     href: String,
     // type: String,
-    name: String,
+    pub name: String,
     album_type: String,
     available_markets: Vec<String>,
     external_urls: std::collections::HashMap<String, String>,
@@ -123,7 +126,7 @@ struct SimpleArtist {
     uri: String,
     href: String,
     // type: String,
-    name: String,
+    pub name: String,
     external_urls: std::collections::HashMap<String, String>,
 }
 
